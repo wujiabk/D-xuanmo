@@ -1,16 +1,16 @@
 ## 联系方式
 
-- 博客: [www.xuanmo.xin](https://www.xuanmo.xin)
-- QQ: 993901865
-- 微信：D-xuanmo
-- Email：me@xuanmo.xin
-- Twitter：[Xuanmo](https://twitter.com/Xuanmo_d)
+- 博客: [www.wujiabk.com](https://www.wujiabk.com)
+- QQ: 523453335
+- 微信：Juxw555
+- Email：web@wujiabk.com
+- Twitter：[Jesy](https://twitter.com/jesy555)
 
 ## 摸鱼动态
 
 |.|.|
 |---|---|
-|<img src="https://github-readme-stats.vercel.app/api?username=D-xuanmo&show_icons=true&theme=vue" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-xuanmo&langs_count=10&layout=compact&theme=vue" />|
+|<img src="https://github-readme-stats.vercel.app/api?username=wujiabk&show_icons=true&theme=react" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujiabk&langs_count=10&layout=compact&theme=react" />|
 
 ## 技术栈
 |End|Stack|
